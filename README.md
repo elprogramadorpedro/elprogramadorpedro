@@ -1,24 +1,13 @@
-### Hi there 👋
+### Hi I am Pedro👋
 
-<!--
-**elprogramadorpedro/elprogramadorpedro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Industrial Engineer graduated from <a href="https://www.unifal-mg.edu.br/portal/">Polytechnic University Institute "Santiago Mariño"</a>
+- 🚀 Full stack developer with <a href="https://www.labenu.com.br/">Labenu</a>  
+alt="React" title="TypeScript"/>](https://www.typescriptlang.org/docs/handbook/2/basic-types.html) and [<img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" height="30em" align="center" alt="React" title="Jest"/>](https://jestjs.io/)
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-From: 23 April 2022 - To: 23 May 2022
-
-JavaScript   57 hrs 44 mins  ██████████░░░░░░░░░░░░░░░   40.37 %
-TypeScript   30 hrs 49 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.55 %
-Lua          17 hrs 23 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.16 %
-JSON         6 hrs 15 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
-i3config     5 hrs 40 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
-Bash         4 hrs 9 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
+<div style="display: flex">   
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celso-patiri&layout=compact&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=aura&custom_title=Most used languages&include_all_commits=true&count_private=true&title_color=3d94ff&langs_count=6" height="180em"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=celso-patiri&theme=aura&custom_title=Celso's GitHub Stats&include_all_commits=true&count_private=true&title_color=3d94ff" height="180rem"/>
+  
+</div>
