@@ -3,6 +3,10 @@
 - 🎓 Industrial Engineer graduated from <a href="">Polytechnic University Institute "Santiago Mariño"</a>
 - 🚀 Full stack developer with <a href="https://www.labenu.com.br/">Labenu</a>  
 
+<div style="display: flex">   
+  <img src="https://github-readme-stats.vercel.app/api?username={Pedro Villalba}" height="180em"/>
+
+  
 </div>
 
 
