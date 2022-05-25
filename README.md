@@ -7,12 +7,8 @@
 ## 🛠️ Skills & Stats
 
 
-
 <div style="display: flex">   
- 
-
- 
-  <img src="https://github-readme-stats.vercel.app/api?username={username}" height="180em"/>
+  <img src="" height="180em"/>
 
   
 </div>
