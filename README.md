@@ -3,14 +3,6 @@
 - 🎓 Industrial Engineer graduated from <a href="https://www.unifal-mg.edu.br/portal/">Polytechnic University Institute "Santiago Mariño"</a>
 - 🚀 Full stack developer with <a href="https://www.labenu.com.br/">Labenu</a>  
 
-
-## 🛠️ Skills & Stats
-
-
-<div style="display: flex">   
-  <img src="" height="180em"/>
-
-  
 </div>
 
 
