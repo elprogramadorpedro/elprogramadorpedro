@@ -1,32 +1,58 @@
-### Hi I am Pedro👋
+<h1 align="center">Pedro Villalba</h1>
 
-- 🎓 Industrial Engineer graduated from <a href="">Polytechnic University Institute "Santiago Mariño"</a>
-- 🚀 Full stack developer with <a href="https://www.labenu.com.br/">Labenu</a>  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F0A44E&center=true&vCenter=true&width=620&height=45&lines=Mobile+Developer+%C2%B7+React+Native+%26+Flutter;Del+prototipo+a+producci%C3%B3n;Ingeniero+que+construye+productos" alt="Pedro Villalba" />
+</p>
+
+<p align="center">
+  🎓 Ingeniero Industrial — Instituto Universitario Politécnico "Santiago Mariño"<br/>
+  🚀 Full Stack Developer — <a href="https://www.labenu.com.br/">Labenu</a> &nbsp;·&nbsp; 📱 Mobile Developer @ TI Safe<br/>
+  🌎 Río de Janeiro, Brasil
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pedro-antonio-villalba-imbrech-aa61841a1/">
+    <img src="https://img.shields.io/badge/LinkedIn-E8893F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:elprogramadorpedro@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-1b1b1f?style=for-the-badge&logo=gmail&logoColor=F0A44E" alt="Gmail" />
+  </a>
+  <a href="https://github.com/elprogramadorpedro">
+    <img src="https://komarev.com/ghpvc/?username=elprogramadorpedro&color=F0A44E&style=for-the-badge&label=Profile+views" alt="views" />
+  </a>
+</p>
+
+---
+
+### 🧩 Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,ts,js,nodejs,expo,firebase,supabase,nextjs,tailwind,postgres,mongodb,jest,git,github,docker,figma,linux&theme=dark&perline=10" alt="Stack" />
+</p>
+
+<p align="center">
+  <b>Mobile-first:</b> React Native · Flutter · Expo · Firebase <i>(Auth, Firestore, Crashlytics, Cloud Messaging)</i> · Supabase · CI/CD
+</p>
+
+---
+
+### 📊 GitHub en números
 
 <div align="center">
-  <a href="https://github.com/elprogramadorpedro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elprogramadorpedro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elprogramadorpedro&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=elprogramadorpedro&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1b1b1f&title_color=f0a44e&icon_color=f0a44e&text_color=a4a4b0" alt="stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elprogramadorpedro&layout=compact&langs_count=8&hide_border=true&bg_color=1b1b1f&title_color=f0a44e&text_color=a4a4b0" alt="top langs" />
 </div>
 
-
-<div style="display: flex">
- <img align="center" title="JavaScript" alt="JavaScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-   <img align="center" title="React" alt="React" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
- <img align="center" title="Node.js" alt="Node.js" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" title="HTML5" alt="HTML" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img align="center" title="CSS3" alt="CSS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
- 
-  <img align="center" title="MongoDB" alt="MongoDB" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-
-  <img align="center" title="PostgreSQL" alt="PostgreSQL" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img align="center" title="Docker" alt="Docker" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img align="center" title="Git" alt="Git" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" title="Linux" alt="Linux" height="35" width="45"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=elprogramadorpedro&hide_border=true&background=1b1b1f&ring=f0a44e&fire=e8893f&currStreakLabel=f0a44e&sideLabels=a4a4b0&dates=71717f&sideNums=ededf1&currStreakNum=ededf1&dayLabels=a4a4b0&stroke=2a2a33" alt="streak" />
 </div>
-  
-  ![Snake animation](https://github.com/elprogramadorpedro/elprogramadorpedro/blob/output/github-contribution-grid-snake.svg)
 
-## 📫 Reach me
-<a href="https://www.linkedin.com/in/pedro-antonio-villalba-imbrech-aa61841a1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href = "mailto:elprogramador@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=elprogramadorpedro&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trophies" />
+</div>
+
+---
+
+<div align="center">
+  <img alt="snake" src="https://raw.githubusercontent.com/elprogramadorpedro/elprogramadorpedro/output/github-contribution-grid-snake.svg" />
+</div>
