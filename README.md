@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🎓 Ingeniero Industrial — Instituto Universitario Politécnico "Santiago Mariño"<br/>
+  🎓 Ingeniero — Instituto Universitario Politécnico "Santiago Mariño"<br/>
   🚀 Full Stack Developer — <a href="https://www.labenu.com.br/">Labenu</a> &nbsp;·&nbsp; 📱 Mobile Developer @ TI Safe<br/>
   🌎 Río de Janeiro, Brasil
 </p>
@@ -24,15 +24,11 @@
 
 ---
 
-### 🧩 Stack
+### 📈 Actividad
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,ts,js,nodejs,expo,firebase,supabase,nextjs,tailwind,postgres,mongodb,jest,git,github,docker,figma,linux&theme=dark&perline=10" alt="Stack" />
-</p>
-
-<p align="center">
-  <b>Mobile-first:</b> React Native · Flutter · Expo · Firebase <i>(Auth, Firestore, Crashlytics, Cloud Messaging)</i> · Supabase · CI/CD
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elprogramadorpedro&bg_color=212128&color=ededf1&line=f0a44e&point=e8893f&area=true&area_color=f0a44e&hide_border=false&border_color=2a2a33&radius=16&custom_title=Contribuciones&height=300" alt="activity graph" />
+</div>
 
 ---
 
@@ -49,8 +45,12 @@
 
 ---
 
-### 📈 Actividad
+### 🧩 Stack
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elprogramadorpedro&bg_color=212128&color=ededf1&line=f0a44e&point=e8893f&area=true&area_color=f0a44e&hide_border=false&border_color=2a2a33&radius=16&custom_title=Contribuciones&height=300" alt="activity graph" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,ts,js,nodejs,expo,firebase,supabase,nextjs,tailwind,postgres,mongodb,jest,git,github,docker,figma,linux&theme=dark&perline=10" alt="Stack" />
+</p>
+
+<p align="center">
+  <b>Mobile-first:</b> React Native · Flutter · Expo · Firebase <i>(Auth, Firestore, Crashlytics, Cloud Messaging)</i> · Supabase · CI/CD
+</p>
