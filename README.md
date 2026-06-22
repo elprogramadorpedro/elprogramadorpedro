@@ -39,20 +39,18 @@
 ### 📊 GitHub en números
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=elprogramadorpedro&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1b1b1f&title_color=f0a44e&icon_color=f0a44e&text_color=a4a4b0" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elprogramadorpedro&layout=compact&langs_count=8&hide_border=true&bg_color=1b1b1f&title_color=f0a44e&text_color=a4a4b0" alt="top langs" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=elprogramadorpedro&show_icons=true&count_private=true&border_radius=16&bg_color=212128&title_color=f0a44e&icon_color=f0a44e&text_color=a4a4b0&border_color=2a2a33" alt="stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elprogramadorpedro&layout=compact&langs_count=8&border_radius=16&bg_color=212128&title_color=f0a44e&text_color=a4a4b0&border_color=2a2a33" alt="top langs" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=elprogramadorpedro&hide_border=true&background=1b1b1f&ring=f0a44e&fire=e8893f&currStreakLabel=f0a44e&sideLabels=a4a4b0&dates=71717f&sideNums=ededf1&currStreakNum=ededf1&dayLabels=a4a4b0&stroke=2a2a33" alt="streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=elprogramadorpedro&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trophies" />
+  <img src="https://streak-stats.demolab.com?user=elprogramadorpedro&border_radius=16&background=212128&border=2a2a33&stroke=2a2a33&ring=f0a44e&fire=e8893f&currStreakLabel=f0a44e&sideLabels=a4a4b0&dates=71717f&sideNums=ededf1&currStreakNum=ededf1&dayLabels=a4a4b0" alt="streak" />
 </div>
 
 ---
 
+### 📈 Actividad
+
 <div align="center">
-  <img alt="snake" src="https://raw.githubusercontent.com/elprogramadorpedro/elprogramadorpedro/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elprogramadorpedro&bg_color=212128&color=ededf1&line=f0a44e&point=e8893f&area=true&area_color=f0a44e&hide_border=false&border_color=2a2a33&radius=16&custom_title=Contribuciones&height=300" alt="activity graph" />
 </div>
